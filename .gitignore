@@ -1,0 +1,14 @@
+# 构建产物之外的东西不用发布
+_src/node_modules/
+_src/chrome-prof/
+_src/chrome-prof2/
+_src/chromeprofile/
+_src/edgeprofile/
+_src/edgeprofile2/
+_src/edgeprofile3/
+_src/package.json
+_src/pnpm-lock.yaml
+_src/app.js
+_src/app.part*.js
+_src/_*.mjs
+.git/
